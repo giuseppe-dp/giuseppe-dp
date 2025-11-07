@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-physics student <br>intrested in ai and data science<br>programming my ideas and projects <br>what to build my softwer company
+physics student <br>intrested in ai and data science<br>programming my ideas and projects <br>
 
 
 # 💻 Tech Stack:
