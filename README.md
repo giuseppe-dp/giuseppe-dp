@@ -1,4 +1,4 @@
-# Hi there, I'm Giuseppe! 👋 ⚛️
+# Hi there, I'm Giuseppe! 👋 
 
 <h3 align="center">
   Physics Undergraduate | Data Scientist | AI & Quantum Computing Enthusiast
@@ -24,7 +24,6 @@ I am a Physics undergraduate student merging a rigorous analytical foundation wi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Data Science & Analytics**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -34,6 +33,7 @@ I am a Physics undergraduate student merging a rigorous analytical foundation wi
 
 **Environments & OS**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
