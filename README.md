@@ -12,7 +12,7 @@
 
 ### 👨‍🔬 About Me
 
-I am a Physics undergraduate student merging a rigorous analytical foundation with strong computational expertise. My background is rooted in advanced mathematics and Physics which provides me with a unique, first-principles approach to tackling algorithmic and data-driven challenges.
+I am an Italian Physics undergraduate student merging a rigorous analytical foundation with strong computational expertise. My background is rooted in advanced mathematics and Physics which provides me with a unique, first-principles approach to tackling algorithmic and data-driven challenges.
 
 - 🔭 **Focus Areas:** Data Science, Artificial Intelligence, and Quantum Computing.
 - 💻 **Development & Systems:** I build solutions from the ground up. Whether it's writing extensive data manipulation pipelines, optimizing core logic in C++, or configuring Python databases and virtual environments on Linux/Raspberry Pi setups, I enjoy getting my hands dirty with the architecture.
